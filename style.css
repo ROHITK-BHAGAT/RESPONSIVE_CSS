@@ -1,7 +1,7 @@
 #bg {
     height: 50rem;
     /* width: 92rem; */
-    background: url("image/bgimage.jpg");
+    background: url("bgimage.jpg");
     background-size: cover;
     font-size: 1.875rem;
 
